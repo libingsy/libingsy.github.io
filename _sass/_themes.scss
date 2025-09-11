@@ -159,3 +159,31 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+/* 全站用 Times New Roman */
+html, body {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+/* 确保粗体真的用 700，而不是相对的 bolder */
+b, strong,
+p strong, li strong, .more-info strong {
+  font-weight: 700 !important;
+}
+
+/* 防止容器规则把粗体“抹平” */
+.profile .more-info { 
+  font-weight: 400;              /* 正文常规 */
+}
+.profile .more-info b,
+.profile .more-info strong {
+  font-weight: 700 !important;   /* 这里的粗体一定生效 */
+}
+
+/* 16px 基准（浏览器默认 = 100%）*/
+html { font-size: 100%; }          /* 16px */
+
+/* 想全站放大：18px 基准 */
+html { font-size: 112.5%; }        /* 18px */
+
+/* 或 17px：106.25%，20px：125% */
