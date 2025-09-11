@@ -59,10 +59,15 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Papers</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <hr>
+    <h2 id="services">Services</h2>
+    {% capture sc %}{% include services_content.md %}{% endcapture %}
+    {{ sc | markdownify }}
 
     <!-- Social -->
     {% if page.social %}
@@ -76,5 +81,6 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
   </article>
 </div>
