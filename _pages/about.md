@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoc Researcher at A*STAR (Agency for Science, Technology and Research), Centre for Frontier AI Research (CFAR), Institute of High Performance Computing (IHPC), Singapore.
 
