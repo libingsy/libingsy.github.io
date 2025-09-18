@@ -30,7 +30,7 @@ latest_posts:
 Email: libingsy@buaa.edu.cn, libingsy@hotmail.com 
 
 
-Dr. Bing Li received his Ph.D. degree in Computer Applications Technology from Beihang University in 2024, where he studied at the School of Computer Science and was co-advised by Professor [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html) and Assistant Professor [Jiaxin Chen](https://dr-jiaxin-chen.github.io/page/). From 2024 to 2025, he worked as a Postdoctoral Researcher at A*STAR, Singapore, under the supervision of Dr. [Qing Guo](https://tsingqguo.github.io/). 
+Dr. Bing Li received his Ph.D. degree in Computer Applications Technology from Beihang University in 2024, where he studied at the School of Computer Science and was co-advised by Professor [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html) and Assistant Professor [Jiaxin Chen](https://dr-jiaxin-chen.github.io/page/). From 2024 to 2025, he worked as a Postdoctoral Researcher at A*STAR, Singapore, under the supervision of Professor [Qing Guo](https://tsingqguo.github.io/). 
 
 
 **Research Interests.** Image/video analysis, representation learning, and 3D adversarial attacks.
