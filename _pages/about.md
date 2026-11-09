@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc Researcher at A*STAR (Agency for Science, Technology and Research), Centre for Frontier AI Research (CFAR), Institute of High Performance Computing (IHPC), Singapore.
+subtitle: Research Fellow at Nanyang Technological University (NTU), Singapore.
 
 profile:
   align: left
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Email: libingsy@buaa.edu.cn, libingsy@hotmail.com 
+Email: bing.li@ntu.edu.sg
 
 
-Dr. Bing Li received his Ph.D. degree in Computer Applications Technology from Beihang University in 2024, where he studied at the School of Computer Science and was co-advised by Professor [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html) and Assistant Professor [Jiaxin Chen](https://dr-jiaxin-chen.github.io/page/). From 2024 to 2025, he worked as a Postdoctoral Researcher at A*STAR, Singapore, under the supervision of Professor [Qing Guo](https://tsingqguo.github.io/). 
+Dr. Bing Li received his Ph.D. degree in Computer Applications Technology from Beihang University in 2024, where he studied at the School of Computer Science and was co-advised by Professor [Di Huang](https://irip.buaa.edu.cn/dihuang/index.html) and Assistant Professor [Jiaxin Chen](https://dr-jiaxin-chen.github.io/page/). From October 2024 to October 2025, he was a Postdoctoral Researcher at the Centre for Frontier AI Research (CFAR), A*STAR, Singapore, under the supervision of Professor [Qing Guo](https://tsingqguo.github.io/). Since January 2026, he has been a Research Fellow at Nanyang Technological University (NTU), Singapore, working with Professor Wee Peng Tay on UAV perception systems.
 
 
-**Research Interests.** Image/video analysis, representation learning, and 3D adversarial attacks.
+**Research Interests.** UAV perception, multi-modal 3D perception, autonomous driving safety, image/video understanding, 3D generation, and adversarial attacks.
